@@ -1,0 +1,5 @@
+   {
+	 "murder_place": {"kind": "quota", "day": 1, "note": "Where it happened"},
+	 "murder_time":  {"kind": "quota", "day": 1, "note": "When it happened"},
+	 "torn_sleeve":  {"kind": "tell",  "day": 1, "note": "Detail that points at you"}
+   }

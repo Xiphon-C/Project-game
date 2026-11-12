@@ -10,9 +10,14 @@ config_version=5
 
 [application]
 
-config/name="SDFLKJSDFLKJA"
+config/name="New Game Project"
+run/main_scene="res://desktop.tscn"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[autoload]
+
+Gamestate="*uid://bi36abhs4nd2p"
 
 [display]
 
